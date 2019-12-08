@@ -1,4 +1,4 @@
-package com.examplo.wsdlservidor;
+package com.exemplo.wsdlservidor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
